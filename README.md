@@ -8,4 +8,4 @@
 't' -> mithilfe der threshold-methode ein binärbild erzeugen\
 'e' -> erode-methode anwenden\
 'd' -> dilate-methode anwenden\
-'q' -> anwendung beenden\
+'q' -> anwendung beenden
